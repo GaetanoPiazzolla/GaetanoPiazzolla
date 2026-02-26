@@ -1,7 +1,7 @@
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=GaetanoPiazzolla&show_icons=true&theme=dark&hide_border=true" />
-</div>
+# Statistics
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaetanoPiazzolla&theme=dark&hide_border=true" />
-</div>
+![](./profile-summary-card-output/default/0-profile-details.svg)
+![](./profile-summary-card-output/default/1-repos-per-language.svg)
+![](./profile-summary-card-output/default/2-most-commit-language.svg)
+![](./profile-summary-card-output/default/3-stats.svg)
+![](./profile-summary-card-output/default/4-productive-time.svg)
